@@ -6,11 +6,10 @@ using System.Threading.Tasks;
 
 namespace H3Test
 {
-	class Program
+	enum PageType
 	{
-		static void Main(string[] args)
-		{
-			UserMenu.Instance.HomeScreen();
-		}
+		MainMenu,
+		ListComposition,
+		ProductSelection
 	}
 }

@@ -1,1 +1,6 @@
 C:\Users\Eternal\Documents\Visual Studio 2015\Projects\H3Repository\H3Test\H3Test\bin\Debug\H3Test.exe.config
+C:\Users\Eternal\Documents\Visual Studio 2015\Projects\H3Repository\H3Test\H3Test\bin\Debug\H3Test.exe
+C:\Users\Eternal\Documents\Visual Studio 2015\Projects\H3Repository\H3Test\H3Test\bin\Debug\H3Test.pdb
+C:\Users\Eternal\Documents\Visual Studio 2015\Projects\H3Repository\H3Test\H3Test\obj\Debug\H3Test.csprojResolveAssemblyReference.cache
+C:\Users\Eternal\Documents\Visual Studio 2015\Projects\H3Repository\H3Test\H3Test\obj\Debug\H3Test.exe
+C:\Users\Eternal\Documents\Visual Studio 2015\Projects\H3Repository\H3Test\H3Test\obj\Debug\H3Test.pdb

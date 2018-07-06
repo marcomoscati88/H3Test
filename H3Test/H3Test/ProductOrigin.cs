@@ -6,11 +6,9 @@ using System.Threading.Tasks;
 
 namespace H3Test
 {
-	class Program
+	enum ProductOrigin
 	{
-		static void Main(string[] args)
-		{
-			UserMenu.Instance.HomeScreen();
-		}
+	Imported,
+	Home
 	}
 }

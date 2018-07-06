@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace H3Test
 {
-	class Program
+	enum ProductType
 	{
-		static void Main(string[] args)
-		{
-			UserMenu.Instance.HomeScreen();
-		}
+	General,
+	Books,
+	Food,
+	Medical
 	}
 }
