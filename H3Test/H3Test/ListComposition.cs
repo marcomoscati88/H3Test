@@ -42,6 +42,7 @@ namespace H3Test
 						_printList.Print(_productsLists[i], _listNumber, _priceList[i], _taxesList[i]);
 					}
 					Console.ReadLine();
+					ListCreationLanding();
 				}
 				else
 				{
@@ -58,6 +59,7 @@ namespace H3Test
 					_printList.Print(_exampleLists[i], _listNumber, _examplePriceList[i], _exampleTaxesList[i]);
 				}
 				Console.ReadLine();
+				ListCreationLanding();
 			} else {
 				ErrorMessage.Instance.InputError(PageType.ListComposition);
 			}

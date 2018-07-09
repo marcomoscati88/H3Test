@@ -33,7 +33,6 @@ namespace H3Test
 			if (_price > 0 && _price < 1000)
 			{
 				_price = Truncate(_price, 2);
-				Console.WriteLine("Il prezzo dell'oggetto è: " + _price);
 			} else {
 				ErrorMessage.Instance.InputError(PageType.ProductSelection);
 			}

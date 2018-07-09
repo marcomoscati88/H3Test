@@ -10,3 +10,8 @@ C:\Users\admin\Desktop\H3Repository\H3Test\H3Test\obj\Debug\H3Test.pdb
 C:\Users\admin\Desktop\H3Repository\H3Test\H3Test\bin\Debug\H3Test.exe
 C:\Users\admin\Desktop\H3Repository\H3Test\H3Test\bin\Debug\H3Test.pdb
 C:\Users\admin\Desktop\H3Repository\H3Test\H3Test\obj\Debug\H3Test.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Repo\H3Test\H3Test\bin\Debug\H3Test.exe.config
+C:\Users\admin\Desktop\Repo\H3Test\H3Test\obj\Debug\H3Test.exe
+C:\Users\admin\Desktop\Repo\H3Test\H3Test\obj\Debug\H3Test.pdb
+C:\Users\admin\Desktop\Repo\H3Test\H3Test\bin\Debug\H3Test.exe
+C:\Users\admin\Desktop\Repo\H3Test\H3Test\bin\Debug\H3Test.pdb
