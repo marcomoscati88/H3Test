@@ -30,15 +30,14 @@ namespace H3Test
 		{
 			Console.Clear();
 			Console.WriteLine("Benvenuto Utente" + "\n" + "Quale azione desidera effettuare?");
-			Console.WriteLine("1) Creare una lista di prodotti" + "\n" + "2) Stampare una lista di prodotti");
+			Console.WriteLine("1) Creare una lista di prodotti" + "\n" + "2) Uscire");
 			string _userChoice = Console.ReadLine();
 			Int32.TryParse(_userChoice, out _input);
 			if (_input == 1)
 			{
 				_listPage.ListCreationLanding();
 			} else if( _input == 2) {
-				Console.WriteLine("BUBUBUBABABABA");
-				Console.ReadLine();
+				Environment.Exit(0);
 			} else {
 				ErrorMessage.Instance.InputError(PageType.MainMenu);
 			}

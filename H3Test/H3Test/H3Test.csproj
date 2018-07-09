@@ -46,6 +46,7 @@
     <Compile Include="ErrorMessage.cs" />
     <Compile Include="ListComposition.cs" />
     <Compile Include="PageType.cs" />
+    <Compile Include="PrintList.cs" />
     <Compile Include="Product.cs" />
     <Compile Include="ProductOrigin.cs" />
     <Compile Include="ProductsSelection.cs" />

@@ -10,6 +10,7 @@ namespace H3Test
 	{
 		static void Main(string[] args)
 		{
+			UserMenu.Instance.ListPage.CreateExampleLists();
 			UserMenu.Instance.HomeScreen();
 		}
 	}
